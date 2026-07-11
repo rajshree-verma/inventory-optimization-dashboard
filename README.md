@@ -13,19 +13,32 @@ Inventory optimization project using Excel, PostgreSQL, and Power BI to analyze 
 ```text
 Inventory-Optimization/
 │
-├── 01-DATA/
-│   └── CLEANED/
-│       ├── inventory.csv
-│       ├── products.csv
-│       ├── purchaseorders.csv
-│       └── sales.csv
+├── 01-DATA/CLEANED/
+│   │
+│   ├── CSV/
+│   │   ├── inventory.csv
+│   │   ├── products.csv
+│   │   ├── purchaseorders.csv
+│   │   └── sales.csv
+│   │
+│   └── EXCEL/
+│       └── inventory-optimization-dataset.xlsx
 │
 ├── 02-SQL/
-│   ├── 01-view-inventory_value.sql
+│   ├── 01-view-inventory_value_create.sql
+│   ├── 01-view-inventory_value_queries.sql
+│   │
 │   ├── 02-view-stock_health_create.sql
+│   ├── 02-view-stock_health_queries.sql
+│   │
 │   ├── 03-view-reorder_recommendations_create.sql
+│   ├── 03-view-reorder_recommendations_queries.sql
+│   │
 │   ├── 04-view-product_movement_create.sql
+│   │
 │   ├── 05-view-supplier_leadtime_analysis_create.sql
+│   ├── 05-view-supplier_leadtime_analysis_queries.sql
+│   │
 │   └── 06-view-inventory_dashboard_create.sql
 │
 ├── 03-POWER BI/
