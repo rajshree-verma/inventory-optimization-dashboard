@@ -8,8 +8,6 @@ Inventory optimization project using Excel, PostgreSQL, and Power BI to analyze 
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 Inventory-Optimization/
 │
