@@ -1,0 +1,41 @@
+﻿ProductID,CurrentStock,ReorderLevel,MaxStock,Warehouse,LastRestockDate
+P001,245,100,500,Delhi - Okhla Industrial Area WH,10-06-2026
+P002,180,90,400,Noida - Sector 63 Logistics Hub WH,15-06-2026
+P003,320,120,600,Gurugram - Udyog Vihar WH,05-06-2026
+P004,150,80,350,Delhi - Bawana Industrial Area WH,18-06-2026
+P005,275,110,550,Noida - Sector 80 Distribution Center WH,12-06-2026
+P006,190,95,420,Gurugram - Manesar Industrial Hub WH,20-06-2026
+P007,360,140,700,Delhi - Patparganj Industrial Area WH,08-06-2026
+P008,220,110,500,Noida - Greater Noida West WH,14-06-2026
+P009,300,120,650,Gurugram - Sohna Road Warehouse WH,09-06-2026
+P010,160,90,380,Delhi - Narela Industrial Area WH,22-06-2026
+P011,340,150,720,Noida - Ecotech III WH,07-06-2026
+P012,480,200,900,Gurugram - IMT Manesar WH,01-06-2026
+P013,510,220,950,Delhi - Mayapuri Industrial Area WH,03-06-2026
+P014,420,180,800,Noida - Sector 16 Logistics Park WH,11-06-2026
+P015,260,110,500,Gurugram - Sector 37 Industrial Zone WH,16-06-2026
+P016,310,130,600,Delhi - Tikri Kalan WH,19-06-2026
+P017,140,80,350,Noida - Yamuna Expressway WH,13-06-2026
+P018,290,120,600,Gurugram - Udyog Vihar WH,17-06-2026
+P019,330,150,700,Delhi - Mundka Industrial Area WH,06-06-2026
+P020,240,110,500,Noida - Sector 142 WH,21-06-2026
+P021,170,90,400,Delhi - Okhla Industrial Area WH,04-06-2026
+P022,310,140,650,Noida - Sector 63 Logistics Hub WH,23-06-2026
+P023,120,70,300,Gurugram - Udyog Vihar WH,02-06-2026
+P024,350,150,750,Delhi - Bawana Industrial Area WH,09-06-2026
+P025,370,160,800,Noida - Sector 80 Distribution Center WH,10-06-2026
+P026,210,100,450,Gurugram - Manesar Industrial Hub WH,12-06-2026
+P027,450,200,900,Delhi - Patparganj Industrial Area WH,15-06-2026
+P028,300,130,600,Noida - Greater Noida West WH,08-06-2026
+P029,250,110,500,Gurugram - Sohna Road Warehouse WH,19-06-2026
+P030,280,120,550,Delhi - Narela Industrial Area WH,14-06-2026
+P031,260,110,520,Noida - Ecotech III WH,07-06-2026
+P032,290,130,600,Gurugram - IMT Manesar WH,18-06-2026
+P033,230,100,480,Delhi - Mayapuri Industrial Area WH,11-06-2026
+P034,340,150,700,Noida - Sector 16 Logistics Park WH,16-06-2026
+P035,180,90,400,Gurugram - Sector 37 Industrial Zone WH,20-06-2026
+P036,270,120,550,Delhi - Tikri Kalan WH,13-06-2026
+P037,500,220,1000,Noida - Yamuna Expressway WH,05-06-2026
+P038,420,200,900,Gurugram - Udyog Vihar WH,09-06-2026
+P039,360,180,800,Delhi - Mundka Industrial Area WH,17-06-2026
+P040,480,210,950,Noida - Sector 142 WH,21-06-2026

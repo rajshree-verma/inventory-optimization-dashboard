@@ -1,0 +1,41 @@
+﻿ProductID,ProductName,Category,Brand,Supplier,UnitCost,SellingPrice
+P001,Laptop,Computing Devices,Apple,Redington India,95000,115000
+P002,Laptop,Computing Devices,Samsung,Rashi Peripherals,60000,72000
+P003,Laptop,Computing Devices,Dell,Savex Technologies,55000,65000
+P004,Laptop,Computing Devices,HP,Savex Technologies,52000,62000
+P005,Desktop PC,Computing Devices,Lenovo,Savex Technologies,45000,52000
+P006,Desktop PC,Computing Devices,HP,Savex Technologies,48000,56000
+P007,Desktop PC,Computing Devices,Acer,Ingram Micro India,40000,47000
+P008,Desktop PC,Computing Devices,Dell,Savex Technologies,50000,58000
+P009,Tablet,Computing Devices,Apple,Redington India,55000,65000
+P010,Tablet,Computing Devices,Samsung,Rashi Peripherals,35000,42000
+P011,Tablet,Computing Devices,Lenovo,Savex Technologies,25000,30000
+P012,Tablet,Computing Devices,Amazon,TD SYNNEX India,12000,15000
+P013,E-Reader,Computing Devices,Amazon,TD SYNNEX India,9000,11500
+P014,E-Reader,Computing Devices,Kobo,Ingram Micro India,11000,13500
+P015,E-Reader,Computing Devices,Onyx,Comtech Solutions,18000,22000
+P016,E-Reader,Computing Devices,PocketBook,Acro Engineering,15000,18000
+P017,Smartphone,Mobile & Wearables,Apple,Redington India,70000,82000
+P018,Smartphone,Mobile & Wearables,Samsung,Rashi Peripherals,35000,42000
+P019,Smartphone,Mobile & Wearables,Xiaomi,Ingram Micro India,18000,22000
+P020,Smartphone,Mobile & Wearables,OnePlus,Ingram Micro India,30000,36000
+P021,Smartwatch,Mobile & Wearables,Apple,Redington India,35000,42000
+P022,Smartwatch,Mobile & Wearables,Samsung,Rashi Peripherals,18000,22000
+P023,Smartwatch,Mobile & Wearables,Garmin,Supertron Electronics,25000,30000
+P024,Smartwatch,Mobile & Wearables,Fitbit,TD SYNNEX India,12000,15000
+P025,Headphones,Audio Devices,Sony,Supertron Electronics,12000,15000
+P026,Headphones,Audio Devices,Bose,Ingram Micro India,18000,22000
+P027,Headphones,Audio Devices,JBL,Rashi Peripherals,5000,6500
+P028,Headphones,Audio Devices,Sennheiser,TD SYNNEX India,14000,17000
+P029,Printer,Office Equipment,HP,Rashi Peripherals,15000,18000
+P030,Printer,Office Equipment,Canon,Rashi Peripherals,14000,17000
+P031,Printer,Office Equipment,Epson,Ingram Micro India,16000,19000
+P032,Printer,Office Equipment,Brother,Comtech Solutions,13000,16000
+P033,Camera,Office Equipment,Canon,Redington India,55000,65000
+P034,Camera,Office Equipment,Nikon,Redington India,60000,72000
+P035,Camera,Office Equipment,Sony,Supertron Electronics,75000,90000
+P036,Camera,Office Equipment,Fujifilm,Ingram Micro India,65000,78000
+P037,External Hard Drive,Storage Devices,Seagate,Supertron Electronics,6000,7500
+P038,External Hard Drive,Storage Devices,Western Digital,Supertron Electronics,6500,8000
+P039,External Hard Drive,Storage Devices,Toshiba,Ingram Micro India,5500,7000
+P040,External Hard Drive,Storage Devices,Samsung,Rashi Peripherals,7000,8500
