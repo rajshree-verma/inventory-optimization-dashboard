@@ -1,7 +1,7 @@
 --
 SELECT * FROM SUPPLIER_LEADTIME_ANALYSIS
 
--- Update
+-- 1. Update
 --
 
 
@@ -26,7 +26,7 @@ ELSE 7
 END;
 
 --
--- Group by and Order By
+-- 2. Group by and Order By
 
 
 SELECT
