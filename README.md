@@ -58,7 +58,7 @@ Inventory-Optimization/
 
 ### Folder Description
 
-* **01-DATA/** – Contains cleaned datasets used for inventory analysis.
+* **01-DATA/CLEANED/** – Contains cleaned datasets used for inventory analysis.
 * **02-SQL/** – Includes SQL scripts for creating views and performing inventory analysis.
 * **03-POWER BI/** – Contains the Power BI dashboard file for visualization and reporting.
 * **IMAGES/** – Stores dashboard screenshots and analysis outputs.
