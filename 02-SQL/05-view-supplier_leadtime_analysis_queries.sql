@@ -9,18 +9,18 @@ UPDATE PurchaseOrders
 SET LeadTimeDays =
 CASE
 
---         High Risk suppliers/products
+--   High Risk suppliers/products
 WHEN ProductID IN ('P001','P009','P017','P025','P033')
 THEN 35
 
 
---         Medium Risk
+--    Medium Risk
 WHEN ProductID IN ('P002','P006','P010','P014','P018',
                    'P022','P026','P030')
 THEN 20
 
 
---          Low Risk
+--    Low Risk
 ELSE 7
 
 END;
